@@ -1,0 +1,20 @@
+# R
+*.RData
+*.rds
+*.RDS
+
+
+#common
+*.xlsx
+*.pdf
+*.json
+*.csv
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.xlsx
+*.log
+*.rar
+*.zip
+*.7z
+MANIFEST
